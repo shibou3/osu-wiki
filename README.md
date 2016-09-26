@@ -1,4 +1,4 @@
-# osu-wiki
+# osu-dicky
 [osu! on the web](https://osu.ppy.sh) | [dev chat](https://discord.gg/ppy)
 
 future home of osu! wiki
